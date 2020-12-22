@@ -1,7 +1,7 @@
 <h1 align="center">SolarCore</h1></br>
 
 <p align="center">
-'SolarCore' is Solar's set of libraries
+SolarCore is Solar's set of libraries
 </p>
 
 <p align="center">
