@@ -8,6 +8,13 @@ SolarCore is Solar's set of libraries
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
 </p>
 
+### List of dependencies
+
+Name | Link
+--------- | ---------
+SolarBinding | https://github.com/KennethSS/SolarBinding
+
+
 ### Dependency Gradle 
 Add below codes to your **root** `build.gradle` file (not your module build.gradle file).
 ```
@@ -31,3 +38,5 @@ dependencies {
   implementation 'com.github.KennethSS:SolarCore:1.0.0'
 }
 ```
+
+
